@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Jerzy</first_name>
+	<last_name>Poprawa</last_name>
+	<phone_number>236263632</phone_number>
+	<notes>kominiarz</notes>
+</contact>
+<contact>
+	<first_name>Piotr</first_name>
+	<last_name>Marzec</last_name>
+	<phone_number>123123123</phone_number>
+	<notes>prawnik</notes>
+</contact>
+<contact>
+	<first_name>Elżbieta</first_name>
+	<last_name>Kwiecień</last_name>
+	<phone_number>432432432</phone_number>
+	<notes>koleżanka</notes>
+</contact>
+<contact>
+	<first_name>Izabela</first_name>
+	<last_name>Grudzień</last_name>
+	<phone_number>78989890</phone_number>
+	<notes>dentystka</notes>
+</contact>
+<contact>
+	<first_name>Janusz</first_name>
+	<last_name>Lipiec</last_name>
+	<phone_number>123432123</phone_number>
+	<notes></notes>
+</contact>
+</contacts>
